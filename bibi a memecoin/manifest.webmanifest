@@ -1,0 +1,11 @@
+{
+  "name": "BIBI BSC",
+  "short_name": "BIBI",
+  "start_url": "https://bibibsc.app/",
+  "display": "standalone",
+  "background_color": "#ddbe8f",
+  "theme_color": "#822727",
+  "icons": [
+    { "src": "images/bibi-192.png", "type": "image/png", "sizes": "192x192" , "purpose": "maskable any"}
+  ]
+}
